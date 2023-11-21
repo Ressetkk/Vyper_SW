@@ -63,7 +63,7 @@ The BOM is the same for Official Switchwire with Ender_SW changes. Also include 
 |300 mm MGN12H rails|3|X and Y axes. You can use 2x 350 mm for Y axis if you have them, otherwise buy cheaper option|
 |350 mm MGN12H rails|2|Z axis. See note above|
 |330 mm 2020 V-slot extrusion|1| X-axis replacement. If you can, buy 2 350 mm extrusions and cut one to the size with a saw|
-|350 mm 2020 V-slot extrusion|2| Top frame. See note above|
+|350 mm 2020 V-slot extrusion|1| Top frame. See note above|
 |6020 GDSTIME or Sunon Fans|2|Optional. For front fan mounts|
 
 ## Printing options
